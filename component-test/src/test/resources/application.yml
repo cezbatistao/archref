@@ -1,0 +1,11 @@
+checkoutorder:
+  ribbon:
+    listOfServers: http://172.17.0.1:8383
+
+ff4j:
+  redis:
+    server: 172.17.0.1
+
+amazon:
+  dynamodb:
+    url: http://172.17.0.1:8000/
