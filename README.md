@@ -1,6 +1,6 @@
 # Sample Architecture Reference
 
-NEW VERSION: [archref-checkout](https://github.com/cezbatistao/archref-checkout)
+__NEW VERSION__: *[archref-checkout](https://github.com/cezbatistao/archref-checkout)*
 
 ### Code template
 
