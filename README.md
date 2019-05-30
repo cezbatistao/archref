@@ -1,5 +1,7 @@
 # Sample Architecture Reference
 
+NEW VERSION: [archref-checkout](https://github.com/cezbatistao/archref-checkout)
+
 ### Code template
 
 We are using [Google Java Style](https://google.github.io/styleguide/javaguide.html)
